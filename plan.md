@@ -1,6 +1,6 @@
 # Plan
-- init our nodejs project
-- init our first view
+- init our nodejs project [done]
+- init our first view [done]
 - create a room
 - Add the ability to view our own video
 - Add the ability to allow to stream of their video
