@@ -28,6 +28,9 @@ io.on('connection', socket =>{
     socket.on('join-room', (roomId, userId)=>{
         socket.join(roomId); //user will join by the particular roomID
         socket.broadcast.to(roomId).emit('user-connected', userId); //it's like a phonecall to give access of call over the websocket
+        socket.on('message', message=>{
+            io.to(roomId).emit('createMessage', message)
+        })
     })
 })
 
