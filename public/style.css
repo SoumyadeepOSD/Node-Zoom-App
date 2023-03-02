@@ -107,6 +107,7 @@ body{
     list-style: none;
 }
 
-.unmute{
+.unmute, .stop{
     color: #ff0000;
 }
+
