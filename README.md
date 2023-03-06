@@ -140,5 +140,7 @@
 ## Bonus🔽
 <p><b>
 If you have any idea/suggestions regarding the project, you can also contribute to the project by raising a PR
-For any suggestion mail me at 👉  <a href="opencontainer255@gmail.com">Email</a>
+For any suggestion mail me at 👉  <a href="mailto: opencontainer255@gmail.com?subject=Suggestion for QuickChat Project">
+    Email
+</a>
 </b></p>
